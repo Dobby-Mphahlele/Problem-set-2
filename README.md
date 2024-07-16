@@ -12,9 +12,10 @@ This project analyzes VoIP call data using PySpark on Google Colab. The analysis
 
 ### Setup Google Colab
 
-1. Open open `solution_notebook.ipynb` file in this repo
-2. Click on `Open in Colab` as seen below <br>
-   <img width="343" alt="opening_colab" src="https://github.com/user-attachments/assets/7c31b210-097c-486b-a266-8851c9299aa9">
+1. Open open `Dobby_VoIP_Call_Analysis.ipynb` file in this repo
+2. Then click on `Open in Colab` as seen below <br>
+   <img width="956" alt="Opening_Colab" src="https://github.com/user-attachments/assets/57afedbc-fc0b-4d13-b303-1b2ec3ee8e5a">
+
 
 ### Uploading csv file
 * In your Colab notebook, click on the folder icon on the left sidebar to open the file explorer.<br>
